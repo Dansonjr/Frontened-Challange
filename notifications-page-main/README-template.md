@@ -51,25 +51,6 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 - Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 
 ## Author Rabindra
 
