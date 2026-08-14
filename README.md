@@ -23,3 +23,10 @@ Your users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
+## Notes
+
+- This README was copied from `notifications-page-main/README.md` and adjusted for the repository root.
+- The design preview image is located at `notifications-page-main/design/desktop-preview.jpg` and the README links to it relatively so it renders on GitHub.
+- If you prefer the image in the repository root (so the path is simply `design/desktop-preview.jpg`), move the `design` folder up to the root or update the image path accordingly.
+- Want the README merged with another project README or a different wording? Tell me how you'd like it changed and I'll update it.
+
