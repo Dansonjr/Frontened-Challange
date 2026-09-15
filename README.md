@@ -1,6 +1,6 @@
 # Frontend Mentor - Notifications page
 
-![Design preview for the Notifications page coding challenge](notifications-page-main/design/desktop-preview.jpg)
+!Design preview for the Notifications page coding challenge(notifications-page-main/design/desktop-preview.jpg)
 
 A small collection of Frontend Mentor challenge projects. This repository currently includes a Notifications page implementation and related assets.
 
